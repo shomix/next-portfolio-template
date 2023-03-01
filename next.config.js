@@ -8,8 +8,5 @@ module.exports = withContentlayer({
       "res.cloudinary.com",
       "cdn.hashnode.com",
     ],
-    loader: "akamai",
-    path: "",
   },
-  trailingSlash: true,
 });
